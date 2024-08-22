@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleejk&label=Profile%20views&color=0e75b6&style=flat" alt="saleejk" /> </p>
 
-- 🌱 I’m currently learning **DotNet Core**
+- 🔭 I’m currently working as a Dot Net Developer in Bridgeon Solutions LLP
 
-- 📫 How to reach me **saleejk7@gmail.com**
+- 💬 Ask me about **Flutter, Dart, C#, ASP.NET Core, SQL Server**
+
+- 📫 reach me on **saleejk7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
