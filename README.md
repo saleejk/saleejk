@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleejk&label=Profile%20views&color=0e75b6&style=flat" alt="saleejk" /> </p>
 
-- 🔭 I’m currently working as a Dot Net Developer in Bridgeon Solutions LLP
+- 🔭 I’m currently working as a Dot Net Developer in Texol World LLP
 
 - 💬 Ask me about **Flutter, Dart, C#, ASP.NET Core, SQL Server**
 
